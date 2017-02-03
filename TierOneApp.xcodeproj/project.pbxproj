@@ -7,13 +7,26 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		110C2A561E0846E6002512DE /* LinoBaseball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 110C2A551E0846E6002512DE /* LinoBaseball.swift */; };
+		1141004B1E25455D00FF034C /* LinoDirec1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1141004A1E25455D00FF034C /* LinoDirec1.swift */; };
+		1155DDBF1E1D58D8003A6E19 /* AboutUs1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1155DDBE1E1D58D8003A6E19 /* AboutUs1.swift */; };
+		1155DDC11E1D5A3A003A6E19 /* Alumni1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1155DDC01E1D5A3A003A6E19 /* Alumni1.swift */; };
+		1155DDC31E1D5AC6003A6E19 /* SuccessStories1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1155DDC21E1D5AC6003A6E19 /* SuccessStories1.swift */; };
+		1155DDC51E1D5B4B003A6E19 /* Events1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1155DDC41E1D5B4B003A6E19 /* Events1.swift */; };
+		117356321E1C0F6600CF643E /* ContactUs1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 117356311E1C0F6600CF643E /* ContactUs1.swift */; };
 		119CBEBD1DFF088700169FD9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119CBEBC1DFF088700169FD9 /* AppDelegate.swift */; };
-		119CBEBF1DFF088700169FD9 /* ViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119CBEBE1DFF088700169FD9 /* ViewController.swift */; };
+		119CBEBF1DFF088700169FD9 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119CBEBE1DFF088700169FD9 /* Home.swift */; };
 		119CBEC21DFF088700169FD9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 119CBEC01DFF088700169FD9 /* Main.storyboard */; };
 		119CBEC41DFF088700169FD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 119CBEC31DFF088700169FD9 /* Assets.xcassets */; };
 		119CBEC71DFF088700169FD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 119CBEC51DFF088700169FD9 /* LaunchScreen.storyboard */; };
 		119CBED21DFF088700169FD9 /* TierOneAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119CBED11DFF088700169FD9 /* TierOneAppTests.swift */; };
 		119CBEDD1DFF088700169FD9 /* TierOneAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119CBEDC1DFF088700169FD9 /* TierOneAppUITests.swift */; };
+		11AFF4431E2581D500FE73E5 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AFF4421E2581D500FE73E5 /* Capital.swift */; };
+		11AFF4471E25892800FE73E5 /* WoodburyDirec1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AFF4461E25892800FE73E5 /* WoodburyDirec1.swift */; };
+		11AFF4491E2589C200FE73E5 /* Capital1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AFF4481E2589C200FE73E5 /* Capital1.swift */; };
+		11AFF44B1E258C4B00FE73E5 /* VadnaisDirec1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AFF44A1E258C4B00FE73E5 /* VadnaisDirec1.swift */; };
+		11AFF44D1E258D0000FE73E5 /* Capital2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AFF44C1E258D0000FE73E5 /* Capital2.swift */; };
+		11D8AB211E37BA4300B137A7 /* GlobalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11D8AB201E37BA4300B137A7 /* GlobalData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -34,9 +47,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		110C2A551E0846E6002512DE /* LinoBaseball.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinoBaseball.swift; sourceTree = "<group>"; };
+		1141004A1E25455D00FF034C /* LinoDirec1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinoDirec1.swift; sourceTree = "<group>"; };
+		1155DDBE1E1D58D8003A6E19 /* AboutUs1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutUs1.swift; sourceTree = "<group>"; };
+		1155DDC01E1D5A3A003A6E19 /* Alumni1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alumni1.swift; sourceTree = "<group>"; };
+		1155DDC21E1D5AC6003A6E19 /* SuccessStories1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SuccessStories1.swift; sourceTree = "<group>"; };
+		1155DDC41E1D5B4B003A6E19 /* Events1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Events1.swift; sourceTree = "<group>"; };
+		117356311E1C0F6600CF643E /* ContactUs1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactUs1.swift; sourceTree = "<group>"; };
 		119CBEB91DFF088700169FD9 /* TierOneApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TierOneApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		119CBEBC1DFF088700169FD9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		119CBEBE1DFF088700169FD9 /* ViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewController.swift; sourceTree = "<group>"; };
+		119CBEBE1DFF088700169FD9 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
 		119CBEC11DFF088700169FD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
 		119CBEC31DFF088700169FD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		119CBEC61DFF088700169FD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
@@ -47,6 +67,12 @@
 		119CBED81DFF088700169FD9 /* TierOneAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TierOneAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		119CBEDC1DFF088700169FD9 /* TierOneAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TierOneAppUITests.swift; sourceTree = "<group>"; };
 		119CBEDE1DFF088700169FD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		11AFF4421E2581D500FE73E5 /* Capital.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Capital.swift; path = ../Capital.swift; sourceTree = "<group>"; };
+		11AFF4461E25892800FE73E5 /* WoodburyDirec1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WoodburyDirec1.swift; path = ../WoodburyDirec1.swift; sourceTree = "<group>"; };
+		11AFF4481E2589C200FE73E5 /* Capital1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Capital1.swift; sourceTree = "<group>"; };
+		11AFF44A1E258C4B00FE73E5 /* VadnaisDirec1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VadnaisDirec1.swift; sourceTree = "<group>"; };
+		11AFF44C1E258D0000FE73E5 /* Capital2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Capital2.swift; sourceTree = "<group>"; };
+		11D8AB201E37BA4300B137A7 /* GlobalData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -97,8 +123,21 @@
 		119CBEBB1DFF088700169FD9 /* TierOneApp */ = {
 			isa = PBXGroup;
 			children = (
+				11D8AB201E37BA4300B137A7 /* GlobalData.swift */,
+				119CBEBE1DFF088700169FD9 /* Home.swift */,
+				1141004A1E25455D00FF034C /* LinoDirec1.swift */,
+				11AFF4421E2581D500FE73E5 /* Capital.swift */,
+				11AFF4461E25892800FE73E5 /* WoodburyDirec1.swift */,
+				11AFF4481E2589C200FE73E5 /* Capital1.swift */,
+				11AFF44A1E258C4B00FE73E5 /* VadnaisDirec1.swift */,
+				11AFF44C1E258D0000FE73E5 /* Capital2.swift */,
+				117356311E1C0F6600CF643E /* ContactUs1.swift */,
+				1155DDBE1E1D58D8003A6E19 /* AboutUs1.swift */,
+				1155DDC01E1D5A3A003A6E19 /* Alumni1.swift */,
+				1155DDC21E1D5AC6003A6E19 /* SuccessStories1.swift */,
+				1155DDC41E1D5B4B003A6E19 /* Events1.swift */,
+				110C2A551E0846E6002512DE /* LinoBaseball.swift */,
 				119CBEBC1DFF088700169FD9 /* AppDelegate.swift */,
-				119CBEBE1DFF088700169FD9 /* ViewController.swift */,
 				119CBEC01DFF088700169FD9 /* Main.storyboard */,
 				119CBEC31DFF088700169FD9 /* Assets.xcassets */,
 				119CBEC51DFF088700169FD9 /* LaunchScreen.storyboard */,
@@ -259,8 +298,21 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				119CBEBF1DFF088700169FD9 /* ViewController.swift in Sources */,
+				1155DDBF1E1D58D8003A6E19 /* AboutUs1.swift in Sources */,
+				117356321E1C0F6600CF643E /* ContactUs1.swift in Sources */,
+				1141004B1E25455D00FF034C /* LinoDirec1.swift in Sources */,
+				11AFF44D1E258D0000FE73E5 /* Capital2.swift in Sources */,
+				119CBEBF1DFF088700169FD9 /* Home.swift in Sources */,
+				11AFF4491E2589C200FE73E5 /* Capital1.swift in Sources */,
+				11D8AB211E37BA4300B137A7 /* GlobalData.swift in Sources */,
+				11AFF4431E2581D500FE73E5 /* Capital.swift in Sources */,
+				110C2A561E0846E6002512DE /* LinoBaseball.swift in Sources */,
 				119CBEBD1DFF088700169FD9 /* AppDelegate.swift in Sources */,
+				11AFF44B1E258C4B00FE73E5 /* VadnaisDirec1.swift in Sources */,
+				1155DDC11E1D5A3A003A6E19 /* Alumni1.swift in Sources */,
+				1155DDC51E1D5B4B003A6E19 /* Events1.swift in Sources */,
+				11AFF4471E25892800FE73E5 /* WoodburyDirec1.swift in Sources */,
+				1155DDC31E1D5AC6003A6E19 /* SuccessStories1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -505,6 +557,7 @@
 				119CBEE31DFF088700169FD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		119CBEE41DFF088700169FD9 /* Build configuration list for PBXNativeTarget "TierOneAppTests" */ = {
 			isa = XCConfigurationList;
@@ -513,6 +566,7 @@
 				119CBEE61DFF088700169FD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		119CBEE71DFF088700169FD9 /* Build configuration list for PBXNativeTarget "TierOneAppUITests" */ = {
 			isa = XCConfigurationList;
@@ -521,6 +575,7 @@
 				119CBEE91DFF088700169FD9 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
