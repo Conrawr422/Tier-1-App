@@ -7,29 +7,54 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
-		110C2A561E0846E6002512DE /* LinoBaseball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 110C2A551E0846E6002512DE /* LinoBaseball.swift */; };
-		1141004B1E25455D00FF034C /* LinoDirec1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1141004A1E25455D00FF034C /* LinoDirec1.swift */; };
-		1155DDBF1E1D58D8003A6E19 /* AboutUs1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1155DDBE1E1D58D8003A6E19 /* AboutUs1.swift */; };
-		1155DDC11E1D5A3A003A6E19 /* Alumni1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1155DDC01E1D5A3A003A6E19 /* Alumni1.swift */; };
-		1155DDC31E1D5AC6003A6E19 /* SuccessStories1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1155DDC21E1D5AC6003A6E19 /* SuccessStories1.swift */; };
-		1155DDC51E1D5B4B003A6E19 /* Events1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1155DDC41E1D5B4B003A6E19 /* Events1.swift */; };
-		117356321E1C0F6600CF643E /* ContactUs1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 117356311E1C0F6600CF643E /* ContactUs1.swift */; };
-		119CBEBD1DFF088700169FD9 /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119CBEBC1DFF088700169FD9 /* AppDelegate.swift */; };
-		119CBEBF1DFF088700169FD9 /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119CBEBE1DFF088700169FD9 /* Home.swift */; };
-		119CBEC21DFF088700169FD9 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 119CBEC01DFF088700169FD9 /* Main.storyboard */; };
-		119CBEC41DFF088700169FD9 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 119CBEC31DFF088700169FD9 /* Assets.xcassets */; };
-		119CBEC71DFF088700169FD9 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 119CBEC51DFF088700169FD9 /* LaunchScreen.storyboard */; };
+		1118116E1E82D1DB00937A6B /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 111811581E82D1DB00937A6B /* Assets.xcassets */; };
+		1118116F1E82D1DB00937A6B /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 111811591E82D1DB00937A6B /* Main.storyboard */; };
+		111811701E82D1DB00937A6B /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1118115A1E82D1DB00937A6B /* AppDelegate.swift */; };
+		111811711E82D1DB00937A6B /* GlobalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1118115B1E82D1DB00937A6B /* GlobalData.swift */; };
+		111811721E82D1DB00937A6B /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1118115C1E82D1DB00937A6B /* Capital.swift */; };
+		111811731E82D1DB00937A6B /* Capital1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1118115D1E82D1DB00937A6B /* Capital1.swift */; };
+		111811741E82D1DB00937A6B /* Capital2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1118115E1E82D1DB00937A6B /* Capital2.swift */; };
+		111811751E82D1DB00937A6B /* Home.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1118115F1E82D1DB00937A6B /* Home.swift */; };
+		111811761E82D1DB00937A6B /* LinoDirec1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111811601E82D1DB00937A6B /* LinoDirec1.swift */; };
+		111811771E82D1DB00937A6B /* VadnaisDirec1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111811611E82D1DB00937A6B /* VadnaisDirec1.swift */; };
+		111811781E82D1DB00937A6B /* WoodburyDirec1 (2).swift in Sources */ = {isa = PBXBuildFile; fileRef = 111811621E82D1DB00937A6B /* WoodburyDirec1 (2).swift */; };
+		111811791E82D1DB00937A6B /* LinoBaseball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111811631E82D1DB00937A6B /* LinoBaseball.swift */; };
+		1118117A1E82D1DB00937A6B /* VadnaisBaseball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111811641E82D1DB00937A6B /* VadnaisBaseball.swift */; };
+		1118117B1E82D1DB00937A6B /* WoodburyBaseball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111811651E82D1DB00937A6B /* WoodburyBaseball.swift */; };
+		1118117C1E82D1DB00937A6B /* LinoSoftball.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111811661E82D1DB00937A6B /* LinoSoftball.swift */; };
+		1118117D1E82D1DB00937A6B /* Events1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111811671E82D1DB00937A6B /* Events1.swift */; };
+		1118117E1E82D1DB00937A6B /* SuccessStories1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111811681E82D1DB00937A6B /* SuccessStories1.swift */; };
+		1118117F1E82D1DB00937A6B /* ContactUs1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 111811691E82D1DB00937A6B /* ContactUs1.swift */; };
+		111811801E82D1DB00937A6B /* Alumni1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1118116A1E82D1DB00937A6B /* Alumni1.swift */; };
+		111811811E82D1DB00937A6B /* News1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1118116B1E82D1DB00937A6B /* News1.swift */; };
+		111811821E82D1DB00937A6B /* AboutUs1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 1118116C1E82D1DB00937A6B /* AboutUs1.swift */; };
+		1118119E1E82D56600937A6B /* Info 10-40-22-668.plist in Resources */ = {isa = PBXBuildFile; fileRef = 1118119D1E82D56600937A6B /* Info 10-40-22-668.plist */; };
 		119CBED21DFF088700169FD9 /* TierOneAppTests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119CBED11DFF088700169FD9 /* TierOneAppTests.swift */; };
 		119CBEDD1DFF088700169FD9 /* TierOneAppUITests.swift in Sources */ = {isa = PBXBuildFile; fileRef = 119CBEDC1DFF088700169FD9 /* TierOneAppUITests.swift */; };
-		11AFF4431E2581D500FE73E5 /* Capital.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AFF4421E2581D500FE73E5 /* Capital.swift */; };
-		11AFF4471E25892800FE73E5 /* WoodburyDirec1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AFF4461E25892800FE73E5 /* WoodburyDirec1.swift */; };
-		11AFF4491E2589C200FE73E5 /* Capital1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AFF4481E2589C200FE73E5 /* Capital1.swift */; };
-		11AFF44B1E258C4B00FE73E5 /* VadnaisDirec1.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AFF44A1E258C4B00FE73E5 /* VadnaisDirec1.swift */; };
-		11AFF44D1E258D0000FE73E5 /* Capital2.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11AFF44C1E258D0000FE73E5 /* Capital2.swift */; };
-		11D8AB211E37BA4300B137A7 /* GlobalData.swift in Sources */ = {isa = PBXBuildFile; fileRef = 11D8AB201E37BA4300B137A7 /* GlobalData.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
+		111811A91E82D68900937A6B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 111811551E82D1DB00937A6B /* Tier 1 Performance Mobile.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 111811A11E82D68900937A6B;
+			remoteInfo = "Tier 1 Performance Mobile";
+		};
+		111811AB1E82D68900937A6B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 111811551E82D1DB00937A6B /* Tier 1 Performance Mobile.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 111811A21E82D68900937A6B;
+			remoteInfo = "Tier 1 Performance MobileTests";
+		};
+		111811AD1E82D68900937A6B /* PBXContainerItemProxy */ = {
+			isa = PBXContainerItemProxy;
+			containerPortal = 111811551E82D1DB00937A6B /* Tier 1 Performance Mobile.xcodeproj */;
+			proxyType = 2;
+			remoteGlobalIDString = 111811A31E82D68900937A6B;
+			remoteInfo = "Tier 1 Performance MobileUITests";
+		};
 		119CBECE1DFF088700169FD9 /* PBXContainerItemProxy */ = {
 			isa = PBXContainerItemProxy;
 			containerPortal = 119CBEB11DFF088700169FD9 /* Project object */;
@@ -47,32 +72,36 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
-		110C2A551E0846E6002512DE /* LinoBaseball.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinoBaseball.swift; sourceTree = "<group>"; };
-		1141004A1E25455D00FF034C /* LinoDirec1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = LinoDirec1.swift; sourceTree = "<group>"; };
-		1155DDBE1E1D58D8003A6E19 /* AboutUs1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = AboutUs1.swift; sourceTree = "<group>"; };
-		1155DDC01E1D5A3A003A6E19 /* Alumni1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Alumni1.swift; sourceTree = "<group>"; };
-		1155DDC21E1D5AC6003A6E19 /* SuccessStories1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SuccessStories1.swift; sourceTree = "<group>"; };
-		1155DDC41E1D5B4B003A6E19 /* Events1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Events1.swift; sourceTree = "<group>"; };
-		117356311E1C0F6600CF643E /* ContactUs1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = ContactUs1.swift; sourceTree = "<group>"; };
+		111811551E82D1DB00937A6B /* Tier 1 Performance Mobile.xcodeproj */ = {isa = PBXFileReference; lastKnownFileType = "wrapper.pb-project"; name = "Tier 1 Performance Mobile.xcodeproj"; path = "../../Tier 1 Performance Mobile/Tier 1 Performance Mobile.xcodeproj"; sourceTree = "<group>"; };
+		111811581E82D1DB00937A6B /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; name = Assets.xcassets; path = "../../Tier 1 Performance Mobile/Tier 1 Performance Mobile/Assets.xcassets"; sourceTree = "<group>"; };
+		111811591E82D1DB00937A6B /* Main.storyboard */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.storyboard; name = Main.storyboard; path = ../../../Downloads/Main.storyboard; sourceTree = "<group>"; };
+		1118115A1E82D1DB00937A6B /* AppDelegate.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AppDelegate.swift; path = "../../Tier 1 Performance Mobile/Tier 1 Performance Mobile/AppDelegate.swift"; sourceTree = "<group>"; };
+		1118115B1E82D1DB00937A6B /* GlobalData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = GlobalData.swift; path = ../../../Downloads/t1app/GlobalData.swift; sourceTree = "<group>"; };
+		1118115C1E82D1DB00937A6B /* Capital.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Capital.swift; path = ../../../Downloads/Capital.swift; sourceTree = "<group>"; };
+		1118115D1E82D1DB00937A6B /* Capital1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Capital1.swift; path = ../../../Downloads/t1app/Capital1.swift; sourceTree = "<group>"; };
+		1118115E1E82D1DB00937A6B /* Capital2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Capital2.swift; path = ../../../Downloads/t1app/Capital2.swift; sourceTree = "<group>"; };
+		1118115F1E82D1DB00937A6B /* Home.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Home.swift; path = ../../../Downloads/t1app/Home.swift; sourceTree = "<group>"; };
+		111811601E82D1DB00937A6B /* LinoDirec1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LinoDirec1.swift; path = ../../../Downloads/t1app/LinoDirec1.swift; sourceTree = "<group>"; };
+		111811611E82D1DB00937A6B /* VadnaisDirec1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = VadnaisDirec1.swift; path = ../../../Downloads/t1app/VadnaisDirec1.swift; sourceTree = "<group>"; };
+		111811621E82D1DB00937A6B /* WoodburyDirec1 (2).swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = "WoodburyDirec1 (2).swift"; path = "../../../Downloads/WoodburyDirec1 (2).swift"; sourceTree = "<group>"; };
+		111811631E82D1DB00937A6B /* LinoBaseball.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LinoBaseball.swift; path = ../../../Downloads/t1app/LinoBaseball.swift; sourceTree = "<group>"; };
+		111811641E82D1DB00937A6B /* VadnaisBaseball.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = VadnaisBaseball.swift; path = ../../../Downloads/t1app/VadnaisBaseball.swift; sourceTree = "<group>"; };
+		111811651E82D1DB00937A6B /* WoodburyBaseball.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WoodburyBaseball.swift; path = ../../../Downloads/t1app/WoodburyBaseball.swift; sourceTree = "<group>"; };
+		111811661E82D1DB00937A6B /* LinoSoftball.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = LinoSoftball.swift; path = ../../../Downloads/t1app/LinoSoftball.swift; sourceTree = "<group>"; };
+		111811671E82D1DB00937A6B /* Events1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Events1.swift; path = ../../../Downloads/t1app/Events1.swift; sourceTree = "<group>"; };
+		111811681E82D1DB00937A6B /* SuccessStories1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = SuccessStories1.swift; path = ../../../Downloads/t1app/SuccessStories1.swift; sourceTree = "<group>"; };
+		111811691E82D1DB00937A6B /* ContactUs1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = ContactUs1.swift; path = ../../../Downloads/t1app/ContactUs1.swift; sourceTree = "<group>"; };
+		1118116A1E82D1DB00937A6B /* Alumni1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Alumni1.swift; path = ../../../Downloads/t1app/Alumni1.swift; sourceTree = "<group>"; };
+		1118116B1E82D1DB00937A6B /* News1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = News1.swift; path = ../../../Downloads/t1app/News1.swift; sourceTree = "<group>"; };
+		1118116C1E82D1DB00937A6B /* AboutUs1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = AboutUs1.swift; path = ../../../Downloads/t1app/AboutUs1.swift; sourceTree = "<group>"; };
+		1118119D1E82D56600937A6B /* Info 10-40-22-668.plist */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = text.plist.xml; name = "Info 10-40-22-668.plist"; path = "../../Info 10-40-22-668.plist"; sourceTree = "<group>"; };
 		119CBEB91DFF088700169FD9 /* TierOneApp.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TierOneApp.app; sourceTree = BUILT_PRODUCTS_DIR; };
-		119CBEBC1DFF088700169FD9 /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
-		119CBEBE1DFF088700169FD9 /* Home.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Home.swift; sourceTree = "<group>"; };
-		119CBEC11DFF088700169FD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/Main.storyboard; sourceTree = "<group>"; };
-		119CBEC31DFF088700169FD9 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
-		119CBEC61DFF088700169FD9 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
-		119CBEC81DFF088700169FD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		119CBECD1DFF088700169FD9 /* TierOneAppTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TierOneAppTests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		119CBED11DFF088700169FD9 /* TierOneAppTests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TierOneAppTests.swift; sourceTree = "<group>"; };
 		119CBED31DFF088700169FD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		119CBED81DFF088700169FD9 /* TierOneAppUITests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = TierOneAppUITests.xctest; sourceTree = BUILT_PRODUCTS_DIR; };
 		119CBEDC1DFF088700169FD9 /* TierOneAppUITests.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = TierOneAppUITests.swift; sourceTree = "<group>"; };
 		119CBEDE1DFF088700169FD9 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
-		11AFF4421E2581D500FE73E5 /* Capital.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = Capital.swift; path = ../Capital.swift; sourceTree = "<group>"; };
-		11AFF4461E25892800FE73E5 /* WoodburyDirec1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; name = WoodburyDirec1.swift; path = ../WoodburyDirec1.swift; sourceTree = "<group>"; };
-		11AFF4481E2589C200FE73E5 /* Capital1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Capital1.swift; sourceTree = "<group>"; };
-		11AFF44A1E258C4B00FE73E5 /* VadnaisDirec1.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = VadnaisDirec1.swift; sourceTree = "<group>"; };
-		11AFF44C1E258D0000FE73E5 /* Capital2.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = Capital2.swift; sourceTree = "<group>"; };
-		11D8AB201E37BA4300B137A7 /* GlobalData.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = GlobalData.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -100,6 +129,16 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		111811A41E82D68900937A6B /* Products */ = {
+			isa = PBXGroup;
+			children = (
+				111811AA1E82D68900937A6B /* Tier 1 Performance Mobile.app */,
+				111811AC1E82D68900937A6B /* Tier 1 Performance MobileTests.xctest */,
+				111811AE1E82D68900937A6B /* Tier 1 Performance MobileUITests.xctest */,
+			);
+			name = Products;
+			sourceTree = "<group>";
+		};
 		119CBEB01DFF088700169FD9 = {
 			isa = PBXGroup;
 			children = (
@@ -123,25 +162,29 @@
 		119CBEBB1DFF088700169FD9 /* TierOneApp */ = {
 			isa = PBXGroup;
 			children = (
-				11D8AB201E37BA4300B137A7 /* GlobalData.swift */,
-				119CBEBE1DFF088700169FD9 /* Home.swift */,
-				1141004A1E25455D00FF034C /* LinoDirec1.swift */,
-				11AFF4421E2581D500FE73E5 /* Capital.swift */,
-				11AFF4461E25892800FE73E5 /* WoodburyDirec1.swift */,
-				11AFF4481E2589C200FE73E5 /* Capital1.swift */,
-				11AFF44A1E258C4B00FE73E5 /* VadnaisDirec1.swift */,
-				11AFF44C1E258D0000FE73E5 /* Capital2.swift */,
-				117356311E1C0F6600CF643E /* ContactUs1.swift */,
-				1155DDBE1E1D58D8003A6E19 /* AboutUs1.swift */,
-				1155DDC01E1D5A3A003A6E19 /* Alumni1.swift */,
-				1155DDC21E1D5AC6003A6E19 /* SuccessStories1.swift */,
-				1155DDC41E1D5B4B003A6E19 /* Events1.swift */,
-				110C2A551E0846E6002512DE /* LinoBaseball.swift */,
-				119CBEBC1DFF088700169FD9 /* AppDelegate.swift */,
-				119CBEC01DFF088700169FD9 /* Main.storyboard */,
-				119CBEC31DFF088700169FD9 /* Assets.xcassets */,
-				119CBEC51DFF088700169FD9 /* LaunchScreen.storyboard */,
-				119CBEC81DFF088700169FD9 /* Info.plist */,
+				111811551E82D1DB00937A6B /* Tier 1 Performance Mobile.xcodeproj */,
+				111811581E82D1DB00937A6B /* Assets.xcassets */,
+				111811591E82D1DB00937A6B /* Main.storyboard */,
+				1118115A1E82D1DB00937A6B /* AppDelegate.swift */,
+				1118115B1E82D1DB00937A6B /* GlobalData.swift */,
+				1118115C1E82D1DB00937A6B /* Capital.swift */,
+				1118115D1E82D1DB00937A6B /* Capital1.swift */,
+				1118115E1E82D1DB00937A6B /* Capital2.swift */,
+				1118115F1E82D1DB00937A6B /* Home.swift */,
+				111811601E82D1DB00937A6B /* LinoDirec1.swift */,
+				111811611E82D1DB00937A6B /* VadnaisDirec1.swift */,
+				111811621E82D1DB00937A6B /* WoodburyDirec1 (2).swift */,
+				111811631E82D1DB00937A6B /* LinoBaseball.swift */,
+				111811641E82D1DB00937A6B /* VadnaisBaseball.swift */,
+				111811651E82D1DB00937A6B /* WoodburyBaseball.swift */,
+				111811661E82D1DB00937A6B /* LinoSoftball.swift */,
+				111811671E82D1DB00937A6B /* Events1.swift */,
+				111811681E82D1DB00937A6B /* SuccessStories1.swift */,
+				111811691E82D1DB00937A6B /* ContactUs1.swift */,
+				1118116A1E82D1DB00937A6B /* Alumni1.swift */,
+				1118116B1E82D1DB00937A6B /* News1.swift */,
+				1118116C1E82D1DB00937A6B /* AboutUs1.swift */,
+				1118119D1E82D56600937A6B /* Info 10-40-22-668.plist */,
 			);
 			path = TierOneApp;
 			sourceTree = "<group>";
@@ -232,6 +275,7 @@
 				TargetAttributes = {
 					119CBEB81DFF088700169FD9 = {
 						CreatedOnToolsVersion = 8.0;
+						DevelopmentTeam = 86ZS98XJU5;
 						ProvisioningStyle = Automatic;
 					};
 					119CBECC1DFF088700169FD9 = {
@@ -257,6 +301,12 @@
 			mainGroup = 119CBEB01DFF088700169FD9;
 			productRefGroup = 119CBEBA1DFF088700169FD9 /* Products */;
 			projectDirPath = "";
+			projectReferences = (
+				{
+					ProductGroup = 111811A41E82D68900937A6B /* Products */;
+					ProjectRef = 111811551E82D1DB00937A6B /* Tier 1 Performance Mobile.xcodeproj */;
+				},
+			);
 			projectRoot = "";
 			targets = (
 				119CBEB81DFF088700169FD9 /* TierOneApp */,
@@ -266,14 +316,38 @@
 		};
 /* End PBXProject section */
 
+/* Begin PBXReferenceProxy section */
+		111811AA1E82D68900937A6B /* Tier 1 Performance Mobile.app */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.application;
+			path = "Tier 1 Performance Mobile.app";
+			remoteRef = 111811A91E82D68900937A6B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		111811AC1E82D68900937A6B /* Tier 1 Performance MobileTests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "Tier 1 Performance MobileTests.xctest";
+			remoteRef = 111811AB1E82D68900937A6B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+		111811AE1E82D68900937A6B /* Tier 1 Performance MobileUITests.xctest */ = {
+			isa = PBXReferenceProxy;
+			fileType = wrapper.cfbundle;
+			path = "Tier 1 Performance MobileUITests.xctest";
+			remoteRef = 111811AD1E82D68900937A6B /* PBXContainerItemProxy */;
+			sourceTree = BUILT_PRODUCTS_DIR;
+		};
+/* End PBXReferenceProxy section */
+
 /* Begin PBXResourcesBuildPhase section */
 		119CBEB71DFF088700169FD9 /* Resources */ = {
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				119CBEC71DFF088700169FD9 /* LaunchScreen.storyboard in Resources */,
-				119CBEC41DFF088700169FD9 /* Assets.xcassets in Resources */,
-				119CBEC21DFF088700169FD9 /* Main.storyboard in Resources */,
+				1118116F1E82D1DB00937A6B /* Main.storyboard in Resources */,
+				1118119E1E82D56600937A6B /* Info 10-40-22-668.plist in Resources */,
+				1118116E1E82D1DB00937A6B /* Assets.xcassets in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -298,21 +372,25 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
-				1155DDBF1E1D58D8003A6E19 /* AboutUs1.swift in Sources */,
-				117356321E1C0F6600CF643E /* ContactUs1.swift in Sources */,
-				1141004B1E25455D00FF034C /* LinoDirec1.swift in Sources */,
-				11AFF44D1E258D0000FE73E5 /* Capital2.swift in Sources */,
-				119CBEBF1DFF088700169FD9 /* Home.swift in Sources */,
-				11AFF4491E2589C200FE73E5 /* Capital1.swift in Sources */,
-				11D8AB211E37BA4300B137A7 /* GlobalData.swift in Sources */,
-				11AFF4431E2581D500FE73E5 /* Capital.swift in Sources */,
-				110C2A561E0846E6002512DE /* LinoBaseball.swift in Sources */,
-				119CBEBD1DFF088700169FD9 /* AppDelegate.swift in Sources */,
-				11AFF44B1E258C4B00FE73E5 /* VadnaisDirec1.swift in Sources */,
-				1155DDC11E1D5A3A003A6E19 /* Alumni1.swift in Sources */,
-				1155DDC51E1D5B4B003A6E19 /* Events1.swift in Sources */,
-				11AFF4471E25892800FE73E5 /* WoodburyDirec1.swift in Sources */,
-				1155DDC31E1D5AC6003A6E19 /* SuccessStories1.swift in Sources */,
+				1118117A1E82D1DB00937A6B /* VadnaisBaseball.swift in Sources */,
+				1118117E1E82D1DB00937A6B /* SuccessStories1.swift in Sources */,
+				1118117F1E82D1DB00937A6B /* ContactUs1.swift in Sources */,
+				111811781E82D1DB00937A6B /* WoodburyDirec1 (2).swift in Sources */,
+				1118117B1E82D1DB00937A6B /* WoodburyBaseball.swift in Sources */,
+				1118117D1E82D1DB00937A6B /* Events1.swift in Sources */,
+				1118117C1E82D1DB00937A6B /* LinoSoftball.swift in Sources */,
+				111811791E82D1DB00937A6B /* LinoBaseball.swift in Sources */,
+				111811711E82D1DB00937A6B /* GlobalData.swift in Sources */,
+				111811721E82D1DB00937A6B /* Capital.swift in Sources */,
+				111811731E82D1DB00937A6B /* Capital1.swift in Sources */,
+				111811701E82D1DB00937A6B /* AppDelegate.swift in Sources */,
+				111811751E82D1DB00937A6B /* Home.swift in Sources */,
+				111811741E82D1DB00937A6B /* Capital2.swift in Sources */,
+				111811811E82D1DB00937A6B /* News1.swift in Sources */,
+				111811761E82D1DB00937A6B /* LinoDirec1.swift in Sources */,
+				111811771E82D1DB00937A6B /* VadnaisDirec1.swift in Sources */,
+				111811821E82D1DB00937A6B /* AboutUs1.swift in Sources */,
+				111811801E82D1DB00937A6B /* Alumni1.swift in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -346,25 +424,6 @@
 			targetProxy = 119CBED91DFF088700169FD9 /* PBXContainerItemProxy */;
 		};
 /* End PBXTargetDependency section */
-
-/* Begin PBXVariantGroup section */
-		119CBEC01DFF088700169FD9 /* Main.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				119CBEC11DFF088700169FD9 /* Base */,
-			);
-			name = Main.storyboard;
-			sourceTree = "<group>";
-		};
-		119CBEC51DFF088700169FD9 /* LaunchScreen.storyboard */ = {
-			isa = PBXVariantGroup;
-			children = (
-				119CBEC61DFF088700169FD9 /* Base */,
-			);
-			name = LaunchScreen.storyboard;
-			sourceTree = "<group>";
-		};
-/* End PBXVariantGroup section */
 
 /* Begin XCBuildConfiguration section */
 		119CBEDF1DFF088700169FD9 /* Debug */ = {
@@ -464,6 +523,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 86ZS98XJU5;
 				INFOPLIST_FILE = TierOneApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Crolman69.TierOneApp;
@@ -476,6 +536,7 @@
 			isa = XCBuildConfiguration;
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
+				DEVELOPMENT_TEAM = 86ZS98XJU5;
 				INFOPLIST_FILE = TierOneApp/Info.plist;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_BUNDLE_IDENTIFIER = Crolman69.TierOneApp;
